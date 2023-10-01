@@ -1,0 +1,14 @@
+dog=perro
+cat=gato
+hourse=caballo
+butterfly=mariposa
+rabbit=conejo
+heart=corazon
+red=rojo
+familia=family
+friend=amigo
+sister=hermana
+uncle=tio
+cow=vaca
+family=familia
+orange=naranja
