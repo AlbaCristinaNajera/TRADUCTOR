@@ -12,3 +12,5 @@ uncle=tio
 cow=vaca
 family=familia
 orange=naranja
+table=mesa
+shirt=camisa

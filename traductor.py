@@ -38,7 +38,7 @@ def agregar_traduccion():
     print("La palabra se ha agregado exitosamente")
 
 def traducir():
-    modo, palabra = input("Ingrese el modo (EN-ES o ES-EN) y la palabra (por ejemplo, EN-ES gato): ").split()
+    modo, palabra = input("Ingrese el modo (EN-ES o ES-EN) y la palabra (por ejemplo, ES-EN gato): ").split()
 
     diccionario = cargar_diccionario()
 
